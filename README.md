@@ -3,15 +3,15 @@ Scripts I use for wikisource
 
 Dependency: python3,pywikibot
 
-##Usage
-###Generating links
+## Usage
+### Generating links
 In the python shell:
 ```
 > import gen
 > #gen.genLinks(<סימן>)
 > gen.genLinks('שולחן ערוך יורה דעה ב')
 ```
-###Generating sub pages
+### Generating sub pages
 In the python shell:
 ```
 > import gen
